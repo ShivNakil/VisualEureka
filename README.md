@@ -17,3 +17,5 @@ Within the domain of text extraction technologies, progress has been somewhat co
 ## Flow Chart
 ![Picture4](Picture4.jpg)
 
+## Link to article
+https://ijritcc.org/index.php/ijritcc/article/view/10560
